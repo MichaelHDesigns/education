@@ -1,10 +1,11 @@
-<h1 class="title">{{site.timeline_title}}</h1>
-<p class="subtitle">
-  For more information, have a look at my
+<h1 class="title" style="color: #34bcaa; text-align: center">{{site.timeline_title}}</h1>
+
+<!-- <p class="subtitle" style="text-align: center">
+  For more information, please download
   <a class="highlight-link" href="{{site.cv_download_link}}" target="_blank" rel="noreferrer">
-    curriculum vitae
+    <span style="weight: bold">  the HTH Light Paper </span>
   </a>.
-</p>
+</p> -->
 
 <div class="timeline-wrapper">
   <ul class="timeline">
@@ -25,7 +26,7 @@
             </div>
             <div class="desc neumorphism-card" data-aos="zoom-in-right">
               {{event.subtitle}}
-              {% if event.tags %}
+                {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
                     <span class="tag neumorphism-card">{{tag.tag}}</span>
@@ -66,4 +67,3 @@
       {% endif %}
     {% endfor %}
   </ul>
-</div>
