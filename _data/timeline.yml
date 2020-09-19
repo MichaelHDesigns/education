@@ -17,37 +17,59 @@
 #     - tag: 501c3
 #   timeline-side: right
 
-- title: Michael H
-  title-url: https://michaelhdesigns.github.io/myprofile/
-  date: My Personal Website
+- title: Zukeran Elementary School
+  title-url: https://m.facebook.com/dodea.zukeran.es/
+  date: My Elementary School
   subtitle:
   tags:
-    - tag: <a href="https://michaelhdesigns.github.io/about/" rel="tag">About</a> </p>
-    - tag: <a href="https://michaelhdesigns.github.io/education/" rel="tag">Education</a> </p>
-    - tag: <a href="https://michaelhdesigns.github.io/projects/" rel="tag">Projects</a> </p>
-    - tag: <a href="https://michaelhdesigns.github.io/contact/" rel="tag">Contact</a> </p>
+    - tag: Okinawa
+    - tag: Elementary School
+    - tag: 2nd Grade
+    - tag: 6th Grade
   timeline-side: left
 
-- title: My Github
-  title-url: https://www.github.com/MichaelHDesigns
-  date: My Personal Github
+- title: Lester Middle School
+  title-url: https://m.facebook.com/dodea.lester.ms/
+  date: My Middle School
   subtitle:
   tags:
-    - tag: website
-    - tag: portfolio
-    - tag: github
-    - tag: company
+    - tag: Okinawa
+    - tag: Middle School
+    - tag: 8th Grade
+#    - tag: 
   timeline-side: right
 
-- title: Help The Homeless Worldwide
-  title-url: https://github.com/HTHcoin
-  date: HTH Worldwide Github
+- title: Kubasaki High School
+  title-url: https://m.facebook.com/dodea.kubasaki.hs/
+  date: My High School
   subtitle:
   tags:
-    - tag: nonprofit
-    - tag: homeless
-    - tag: cryptocurrency
-    - tag: masternode
+    - tag: Okinawa
+    - tag: High School
+    - tag: 9th Grade
+    - tag: 11th Grade
+  timeline-side: left
+
+- title: Eastern Arizona College
+  title-url: https://m.facebook.com/gilamonsters/
+  date: My College
+  subtitle:
+  tags:
+    - tag: Arizona
+    - tag: GED
+    - tag: Diploma
+#    - tag: 
+  timeline-side: right
+
+- title: Stack Skills
+  title-url: https://stackskills.com
+  date: My Coding Lessons
+  subtitle:
+  tags:
+    - tag: HTML
+    - tag: CSS
+    - tag: JS
+    - tag: C++
   timeline-side: left
 
 #- title: Amazon Smile
